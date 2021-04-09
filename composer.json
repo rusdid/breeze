@@ -1,0 +1,19 @@
+{
+    "name": "pondit/breeze",
+    "description": "This is a test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mian Zadid Rusdid",
+            "email": "rusdid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pondit\\Breeze\\": "src/"
+        }
+    },
+    "require": {}
+}
